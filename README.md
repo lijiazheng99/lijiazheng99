@@ -46,6 +46,9 @@ Update on ACD, proposed SCD and SOC.
 [**(2018) Towards Deep Learning Models Resistant to Adversarial Attacks**](https://arxiv.org/abs/1706.06083)     
 Adversarial attack algorithm FGSM and PGD.
 
+[**(2020) Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**](https://arxiv.org/abs/1907.11932)     
+Adversarial training by positive <-> negative.
+
 ## Style Transfer
 
 [**(2019) Mask and Infill: Applying Masked Language Model to Sentiment Transfer**](https://arxiv.org/abs/1908.08039)      
