@@ -67,4 +67,8 @@ Same as what title tells
 [**(2020) Beyond Accuracy: Behavioral Testing of NLP models with CheckList**](https://arxiv.org/abs/2005.04118)-[Code](https://github.com/marcotcr/checklist)    
 Good accuracy on score doesn't means model robustness
 
+## Financial Application
+
+[**(2019) What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues**](https://www.aclweb.org/anthology/P19-1038)
+
 ## Other
