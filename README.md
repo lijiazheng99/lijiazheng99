@@ -3,11 +3,12 @@ I can't guarantee correctness of my short notes for each paper. But if you find 
 
 Topics:    
 [General NLP](#General-NLP)   
-[Explainable Model](#-Explainable-Model-in-NLP)    
-[Adversarial](#-Adversarial-Training)             
-[Style Transfer](#-Style-Transfer)     
+[Explainable Model](#Explainable-Model-in-NLP)    
+[Adversarial](#Adversarial-Training)             
+[Style Transfer](#Style-Transfer)     
 [Counterfactual](#Counterfactual-Generation)     
-[Evaluation](#Evaluation)
+[Evaluation](#Evaluation)         
+[Fintech](#Financial-Application)
 
 Links:    
 [Hugging Face Transformer](https://huggingface.co/)
