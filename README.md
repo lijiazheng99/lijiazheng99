@@ -31,13 +31,17 @@ Update on ACD, proposed SCD and SOC.
 
 ## Adversarial Training
 
-
+[**(2018) Towards Deep Learning Models Resistant to Adversarial Attacks**](https://arxiv.org/abs/1706.06083)     
+Adversarial attack algorithm FGSM and PGD.
 
 ## Style Transfer
 
-
+[**() Mask and Infill: Applying Masked Language Model to Sentiment Transfer**](https://arxiv.org/abs/1908.08039)
+Use Mask and Infill replace sentiment words to do style transfer.
 
 ## Counterfactual Generation
 
+[**(2020) Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434)-[Data](https://github.com/acmi-lab/counterfactually-augmented-data)     
+Same as what title tells
 
 ## Other
