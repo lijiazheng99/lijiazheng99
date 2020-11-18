@@ -36,7 +36,7 @@ Adversarial attack algorithm FGSM and PGD.
 
 ## Style Transfer
 
-[**() Mask and Infill: Applying Masked Language Model to Sentiment Transfer**](https://arxiv.org/abs/1908.08039)
+[**(2019) Mask and Infill: Applying Masked Language Model to Sentiment Transfer**](https://arxiv.org/abs/1908.08039)      
 Use Mask and Infill replace sentiment words to do style transfer.
 
 ## Counterfactual Generation
