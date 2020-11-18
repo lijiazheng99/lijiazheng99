@@ -1,7 +1,16 @@
 # Papers I read
 I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts. :)
 
-[General NLP](#General-NLP). [Counterfactual](#Counterfactual-Generation). 
+Topics:    
+[General NLP](#General-NLP)   
+[Explainable Model](#-Explainable-Model-in-NLP)    
+[Adversarial](#-Adversarial-Training)
+[Style Transfer](#-Style-Transfer)
+[Counterfactual](#Counterfactual-Generation). 
+
+Links:    
+[Hugging Face Transformer](https://huggingface.co/)
+
 
 ## General NLP
 
