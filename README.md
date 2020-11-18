@@ -6,7 +6,8 @@ Topics:
 [Explainable Model](#-Explainable-Model-in-NLP)    
 [Adversarial](#-Adversarial-Training)             
 [Style Transfer](#-Style-Transfer)     
-[Counterfactual](#Counterfactual-Generation)                 
+[Counterfactual](#Counterfactual-Generation)
+[Evaluation](#Evaluation)
 
 Links:    
 [Hugging Face Transformer](https://huggingface.co/)
@@ -57,5 +58,13 @@ sentiment: positive <-> negative, content: formal <-> informal
 
 [**(2020) Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434)-[Data](https://github.com/acmi-lab/counterfactually-augmented-data)     
 Same as what title tells
+
+## Evaluation
+
+[**(2018) Stress Test Evaluation for Natural Language Inference**](https://arxiv.org/abs/1806.00692)    
+.
+
+[**(2020) Beyond Accuracy: Behavioral Testing of NLP models with CheckList**](https://arxiv.org/abs/2005.04118)-[Code](https://github.com/marcotcr/checklist)    
+Good accuracy on score doesn't means model robustness
 
 ## Other
