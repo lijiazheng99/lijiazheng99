@@ -1,5 +1,5 @@
 # Papers I read
-I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts. :)
+I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :)
 
 Topics:    
 [General NLP](#General-NLP)   
