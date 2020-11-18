@@ -6,7 +6,7 @@ Topics:
 [Explainable Model](#-Explainable-Model-in-NLP)    
 [Adversarial](#-Adversarial-Training)             
 [Style Transfer](#-Style-Transfer)     
-[Counterfactual](#Counterfactual-Generation)
+[Counterfactual](#Counterfactual-Generation)     
 [Evaluation](#Evaluation)
 
 Links:    
