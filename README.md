@@ -55,7 +55,7 @@ Adversarial training by positive <-> negative.
 [**(2019) Mask and Infill: Applying Masked Language Model to Sentiment Transfer**](https://arxiv.org/abs/1908.08039)      
 Use Mask and Infill replace sentiment words to do style transfer.
 
-[**(2019) A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer**](https://arxiv.org/abs/1905.10060)     
+[**(2019) A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer**](https://arxiv.org/abs/1905.10060)-[Code](https://github.com/luofuli/DualRL)     
 sentiment: positive <-> negative, content: formal <-> informal
 
 ## Counterfactual Generation
