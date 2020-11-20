@@ -1,5 +1,5 @@
 # Papers I read
-Listed papers are what I have read and what I find useful for my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :) I'm open for research collaborations on natural language processing, information retrieval and machine learning.
+Listed papers are what I have read and what I find useful to my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :) I'm open for research collaborations on natural language processing, information retrieval and machine learning.
 
 Topics:    
 [General NLP](#General-NLP)   
