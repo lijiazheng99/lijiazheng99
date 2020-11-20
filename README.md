@@ -11,7 +11,9 @@ Topics:
 [Fintech](#Financial-Application)
 
 Related links:    
-[Hugging Face Transformer](https://huggingface.co/)
+[HuggingFace's Transformer](https://huggingface.co/)       
+[Weights & Biases](https://wandb.ai/)          
+
 
 ## General NLP
 
