@@ -18,6 +18,9 @@ Related links:
 [**(2020) Experience Grounds Language**](https://arxiv.org/abs/2004.10151)      
 A general review of how NLP will develop in future.  
 
+[**(2020) HuggingFace's Transformers: State-of-the-art Natural Language Processing**](https://arxiv.org/abs/1910.03771)-[HuggingFace's Transformer](https://huggingface.co/)     
+NLPer's old friend    
+
 ## Explainable Model in NLP (Post-hoc)
 
 [**(2017) Understanding Neural Networks through Representation Erasure**](https://arxiv.org/abs/1612.08220)      
