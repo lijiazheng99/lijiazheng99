@@ -1,10 +1,8 @@
 # Useful NLP research links
-
-Related links:    
 **Sota:** [NLP Progress](http://nlpprogress.com/) | [Paper with code](https://paperswithcode.com/sota)       
 **Tools:** [HuggingFace's Transformer](https://huggingface.co/) | [Weights & Biases](https://wandb.ai/) | [Allen NLP](https://docs.allennlp.org/)              
 **Repos:** [Google research's github](https://github.com/google-research) | [Facebook research's github](https://github.com/facebookresearch)        
-**Big groups:** [UCL NLP](https://nlp.cs.ucl.ac.uk/) | [UCL DARK](https://ucl-dark.github.io/) | [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) | [Cambridge NLP](https://www.cl.cam.ac.uk/research/nl/publications.html)
+**Big groups:** [UCL NLP](https://nlp.cs.ucl.ac.uk/) | [UCL DARK](https://ucl-dark.github.io/) | [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) | [Cambridge NLP](https://www.cl.cam.ac.uk/research/nl/publications.html)          
 **Conferences:** [ICLR 2021 submissions](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [ACL 2020 accepted papers](https://acl2020.org/program/accepted/) | [JICAI 2020 accepted papers](http://static.ijcai.org/2020-accepted_papers.html)
 
 [***Upcoming AI conferences ddl***](https://aideadlin.es/)
