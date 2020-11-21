@@ -4,7 +4,7 @@ Listed papers are what I have read and what I find useful to my researches. I ca
 I'm open for research collaborations on natural language processing, information retrieval and machine learning.
 
 Topics:    
-[General NLP](#General-NLP) | [Explainable Model](#Explainable-Model-in-NLP) | [Adversarial](#Adversarial-Training) | [Style Transfer](#Style-Transfer) | [Counterfactual](#Counterfactual-Generation) |  [Evaluation](#Evaluation) | [Fintech](#Financial-Application)
+[General NLP](#General-NLP) | [Explainable Model](#Explainable-Model-in-NLP-(Post-hoc)) | [Adversarial](#Adversarial-Training) | [Style Transfer](#Style-Transfer) | [Counterfactual](#Counterfactual-Generation) |  [Evaluation](#Evaluation) | [Fintech](#Financial-Application)
 
 Related links:    
 [HuggingFace's Transformer](https://huggingface.co/) | [Weights & Biases](https://wandb.ai/) | [Allen NLP](https://docs.allennlp.org/)              
