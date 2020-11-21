@@ -22,7 +22,8 @@ Transformer
 
 [**(2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://arxiv.org/abs/1810.04805)      
 BERT          
-[A towards data science artical on explain what is bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) 
+[A towards data science artical on explain what is bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)      
+[BERT, RoBERTa, DistilBERT, XLNet — which one to use?](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)               
 
 [**(2020) Experience Grounds Language**](https://arxiv.org/abs/2004.10151)      
 A general review of how NLP will develop in future.  
