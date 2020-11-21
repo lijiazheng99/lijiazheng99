@@ -1,5 +1,7 @@
 # Papers I read
-Listed papers are what I have read and what I find useful to my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :) I'm open for research collaborations on natural language processing, information retrieval and machine learning.
+Listed papers are what I have read and what I find useful to my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :)       
+
+I'm open for research collaborations on natural language processing, information retrieval and machine learning.
 
 Topics:    
 [General NLP](#General-NLP)   
@@ -12,8 +14,10 @@ Topics:
 
 Related links:    
 [HuggingFace's Transformer](https://huggingface.co/)       
-[Weights & Biases](https://wandb.ai/)          
+[Weights & Biases](https://wandb.ai/)              
 
+[Google research's github](https://github.com/google-research)            
+[Facebook research's github](https://github.com/facebookresearch)           
 
 ## General NLP
 
@@ -21,7 +25,14 @@ Related links:
 A general review of how NLP will develop in future.  
 
 [**(2020) HuggingFace's Transformers: State-of-the-art Natural Language Processing**](https://arxiv.org/abs/1910.03771)-[HuggingFace's Transformer](https://huggingface.co/)     
-NLPer's old friend    
+NLPer's old friend   
+
+[**(2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://arxiv.org/abs/1810.04805)      
+BERT          
+[A towards data science artical on exaplian what is bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)     
+
+[**(2017) Attention Is All You Need**](https://arxiv.org/abs/1706.03762)           
+Transformer
 
 ## Explainable Model in NLP (Post-hoc)
 
