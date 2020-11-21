@@ -1,12 +1,6 @@
-# Papers I read
-Listed papers are what I have read and what I find useful to my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :)       
+# Useful NLP research links
 
-I'm open for research collaborations on natural language processing, information retrieval and machine learning.
-
-Topics:    
-[General NLP](#General-NLP) | [Explainable Model](#explainable-model-in-nlp-post-hoc) | [Adversarial](#Adversarial-Training) | [Style Transfer](#Style-Transfer) | [Counterfactual](#Counterfactual-Generation) |  [Evaluation](#Evaluation) | [Fintech](#Financial-Application)
-
-Related links: 
+Related links:    
 **Sota:** [NLP Progress](http://nlpprogress.com/) | [Paper with code](https://paperswithcode.com/sota)       
 **Tools:** [HuggingFace's Transformer](https://huggingface.co/) | [Weights & Biases](https://wandb.ai/) | [Allen NLP](https://docs.allennlp.org/)              
 **Repos:** [Google research's github](https://github.com/google-research) | [Facebook research's github](https://github.com/facebookresearch)        
@@ -14,6 +8,14 @@ Related links:
 **Conferences:** [ICLR 2021 submissions](https://openreview.net/group?id=ICLR.cc/2021/Conference) | [ACL 2020 accepted papers](https://acl2020.org/program/accepted/) | [JICAI 2020 accepted papers](http://static.ijcai.org/2020-accepted_papers.html)
 
 [***Upcoming AI conferences ddl***](https://aideadlin.es/)
+
+# Papers I read
+Listed papers are what I have read and what I find useful to my researches. I can't guarantee correctness of my short notes for each paper. But if you find me misunderstand some of these papers, welcome to contact me and share your thoughts :)       
+
+I'm open for research collaborations on natural language processing, information retrieval and machine learning.
+
+Topics:    
+[General NLP](#General-NLP) | [Explainable Model](#explainable-model-in-nlp-post-hoc) | [Adversarial](#Adversarial-Training) | [Style Transfer](#Style-Transfer) | [Counterfactual](#Counterfactual-Generation) |  [Evaluation](#Evaluation) | [Fintech](#Financial-Application)
 
 ## General NLP
 
