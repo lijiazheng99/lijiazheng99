@@ -9,7 +9,10 @@ Topics:
 Related links:    
 [HuggingFace's Transformer](https://huggingface.co/) | [Weights & Biases](https://wandb.ai/) | [Allen NLP](https://docs.allennlp.org/)              
 
-[Google research's github](https://github.com/google-research) | [Facebook research's github](https://github.com/facebookresearch)           
+[Google research's github](https://github.com/google-research) | [Facebook research's github](https://github.com/facebookresearch)        
+
+Big groups:        
+[UCL NLP](https://nlp.cs.ucl.ac.uk/) | [UCL DARK](https://ucl-dark.github.io/) | [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) | [Cambridge NLP](https://www.cl.cam.ac.uk/research/nl/publications.html)
 
 ## General NLP
 
