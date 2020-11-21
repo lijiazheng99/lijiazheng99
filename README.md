@@ -4,8 +4,7 @@ Listed papers are what I have read and what I find useful to my researches. I ca
 I'm open for research collaborations on natural language processing, information retrieval and machine learning.
 
 Topics:    
-[General NLP](#General-NLP)   
-[Explainable Model](#Explainable-Model-in-NLP)    
+[General NLP](#General-NLP) | [Explainable Model](#Explainable-Model-in-NLP)    
 [Adversarial](#Adversarial-Training)             
 [Style Transfer](#Style-Transfer)     
 [Counterfactual](#Counterfactual-Generation)     
