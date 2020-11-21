@@ -17,18 +17,18 @@ Related links:
 
 ## General NLP
 
+[**(2017) Attention Is All You Need**](https://arxiv.org/abs/1706.03762)           
+Transformer
+
+[**(2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://arxiv.org/abs/1810.04805)      
+BERT          
+[A towards data science artical on explain what is bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) 
+
 [**(2020) Experience Grounds Language**](https://arxiv.org/abs/2004.10151)      
 A general review of how NLP will develop in future.  
 
 [**(2020) HuggingFace's Transformers: State-of-the-art Natural Language Processing**](https://arxiv.org/abs/1910.03771)-[HuggingFace's Transformer](https://huggingface.co/)     
-NLPer's old friend   
-
-[**(2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://arxiv.org/abs/1810.04805)      
-BERT          
-[A towards data science artical on explain what is bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)     
-
-[**(2017) Attention Is All You Need**](https://arxiv.org/abs/1706.03762)           
-Transformer
+NLPer's old friend       
 
 ## Explainable Model in NLP (Post-hoc)
 
