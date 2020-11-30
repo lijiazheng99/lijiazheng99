@@ -31,6 +31,9 @@ A general review of how NLP will develop in future.
 [**(2020) HuggingFace's Transformers: State-of-the-art Natural Language Processing**](https://arxiv.org/abs/1910.03771)-[HuggingFace's Transformer](https://huggingface.co/)     
 NLPer's old friend       
 
+[**(2020) Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models**](https://arxiv.org/abs/2004.14601)               
+Transfer learning from music to language which improves accuracy.       
+
 ## Explainable Model in NLP (Post-hoc)
 
 [**(2017) Understanding Neural Networks through Representation Erasure**](https://arxiv.org/abs/1612.08220)      
