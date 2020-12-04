@@ -91,3 +91,5 @@ Good accuracy on score doesn't means model robustness
 [**(2019) What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues**](https://www.aclweb.org/anthology/P19-1038)
 
 ## Other
+
+[**SKlearn: Choosing the right estimator**](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
