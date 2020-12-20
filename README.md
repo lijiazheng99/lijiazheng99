@@ -34,6 +34,9 @@ NLPer's old friend
 [**(2020) Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models**](https://arxiv.org/abs/2004.14601)               
 Transfer learning from music to language which improves accuracy.       
 
+[**(2020) Efficient Transformers: A Survey**](https://arxiv.org/abs/2009.06732)            
+Survey towards the current state-of-the-art Transformers.        
+
 ## Explainable Model in NLP (Post-hoc)
 
 [**(2017) Understanding Neural Networks through Representation Erasure**](https://arxiv.org/abs/1612.08220)      
@@ -77,6 +80,9 @@ sentiment: positive <-> negative, content: formal <-> informal
 
 [**(2020) Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434)-[Data](https://github.com/acmi-lab/counterfactually-augmented-data)     
 Same as what title tells
+
+[**(2020) Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text**](https://arxiv.org/abs/2012.04698)        
+      
 
 ## Evaluation
 
