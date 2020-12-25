@@ -96,6 +96,14 @@ Good accuracy on score doesn't means model robustness
 
 [**(2019) What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues**](https://www.aclweb.org/anthology/P19-1038)
 
+## Gender Bias
+
+[**(2020) Gender Bias in Multilingual Neural Machine Translation: The Architecture Matters**](https://arxiv.org/abs/2012.13176)                  
+Gender bias study in different languages (Eng,de,es,fr).            
+
+[**(2019) Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting**](https://arxiv.org/abs/1901.09451)    
+Gender bias study in deep learning.      
+
 ## Other
 
 [**SKlearn: Choosing the right estimator**](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
