@@ -60,6 +60,9 @@ contextual decomposition explanation penalization, hummm like adversarial attack
 [**(2020) Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models**](https://arxiv.org/abs/1911.06194)-[Code](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)      
 Update on ACD, proposed SCD and SOC.
 
+[**(2020) To what extent do human explanations of model behavior align with actual model behavior?**](https://arxiv.org/abs/2012.13354)         
+Not read yet.                
+
 ## Adversarial Training
 
 [**(2018) Towards Deep Learning Models Resistant to Adversarial Attacks**](https://arxiv.org/abs/1706.06083)     
