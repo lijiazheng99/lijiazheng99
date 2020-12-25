@@ -35,7 +35,10 @@ NLPer's old friend
 Transfer learning from music to language which improves accuracy.       
 
 [**(2020) Efficient Transformers: A Survey**](https://arxiv.org/abs/2009.06732)            
-Survey towards the current state-of-the-art Transformers.        
+Survey towards the current state-of-the-art Transformers.  
+
+[**(2020) Negation in Cognitive Reasoning**](https://arxiv.org/abs/2012.12641)         
+Quite interesting expriments on processing negation words in sentence. Think: maybe this technique can be used on style transfer?          
 
 ## Explainable Model in NLP (Post-hoc)
 
