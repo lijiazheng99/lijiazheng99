@@ -113,3 +113,6 @@ Gender bias study in deep learning.
 ## Other
 
 [**SKlearn: Choosing the right estimator**](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+[**Natural Language Processing with Python**](http://www.nltk.org/book/)
+
